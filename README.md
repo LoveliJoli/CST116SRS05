@@ -1,12 +1,16 @@
-# CST116SRS05
+﻿# CST116SRS05
 Date List
 
 
-Class ID:  
+Class ID:  Ferrothorn
 
 SRS ID: CST116SRS05  
 
 Unresolved Issues:  
+Does not generate if the second year entered is older than the first year.
+The range of input is not set up.
+I was unsuccessful in incrementing the months, therefore the years do not increment.
+
 
 Notes:  
 
